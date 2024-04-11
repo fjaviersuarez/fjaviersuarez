@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Francisco Javier Suárez
+- 🌱 (Almost) Biologist 
+- 💻 R & Python
+- 💭 Interested in genetics
+- ♂️ Pronouns: He/Him
