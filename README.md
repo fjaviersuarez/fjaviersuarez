@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Francisco Javier Suárez
+- 👋 Hi, I’m Javier
 - 🌱 Biologist 
 - 💻 R & Python
-- 💭 Interested in genetics
+- 🧬 Interested in genetics
 - ♂️ He/Him
