@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Javier
-- 🌱 Biologist 
+- 👋 I'm F. Javier
+- 🌱 BSc in Biology / MSc in Genetics
 - 💻 R & Python
-- 🧬 Interested in genetics
+- 🧬 Interested in genomics & Machine Learning
 - ♂️ He/Him
